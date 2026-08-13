@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: mckdh.github.io/quartz
+  baseUrl: mckdh.github.io/sun-style
   ignorePatterns:
     - private
     - templates
