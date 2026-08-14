@@ -35,7 +35,7 @@ Together, we can experience our group's three main goals: **Health, Fun, and Sel
 *   People fascinated by Eastern internal martial arts who want to learn from the beginning. 
 *(Note: Internal martial arts is not a mystical practice of shooting "Qi". It is a science based on physics.)*
 ### Full Transparency
-*   **My Focus:** Internal martial arts includes Tai Chi, Baguazhang, and Xingyiquan. While I learned Chen-style Tai Chi for 4 years, I only know the movements. I know how to generate power using internal principles based on Xingyiquan, but I do not know the specific applications for every Tai Chi movement. Therefore, **I will guide you based on Xingyiquan.** However, I can share Zhan Zhuang (standing meditation), Push Hands, and other foundational rules that cover all three internal martial arts. I will do my best to ensure you gain the three benefits mentioned above.
+*   **My Focus:** While internal martial arts consists of Tai Chi, Baguazhang, and Xingyiquan, **my guidance is firmly rooted in Xingyiquan.** Although I spent four years learning Chen-style Tai Chi forms, my expertise in internal power generation and practical application comes entirely from Xingyiquan. However, I am more than happy to share foundational practices common to all three arts, such as Zhan Zhuang (standing meditation) and Push Hands, to help you achieve health, fun, and self-defense.
 ### Let's Connect
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
 
