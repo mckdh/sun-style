@@ -8,7 +8,7 @@ I am from South Korea, currently in my late 40s. My fascination with Chinese mar
 
 However, I grew frustrated. I wanted to learn the practical applications and the true meanings behind Tai Chi movements and Push Hands, but my master never taught them. They only emphasized Tai Chi as a health exercise, focusing on elegant, ballet-like movements.
 ### Discovering the True Path
-In 2016, I found a [Xingyiquan](https://en.wikipedia.org/wiki/Xingyiquan) group in Korea. My master there had mastered Sun-style Xingyiquan, Baguazhang, and Tai Chi. He emphasized a core truth: **movements without knowing their applications are meaningless.**
+In 2016, I found a <a href="https://en.wikipedia.org/wiki/Xingyiquan" target="_blank" rel="noopener noreferrer">Xingyiquan</a> group in Korea. My master there had mastered Sun-style Xingyiquan, Baguazhang, and Tai Chi. He emphasized a core truth: **movements without knowing their applications are meaningless.**
 
 I trained under him rigorously. While it usually takes 3 to 4 years to complete the basic training, it took me 7 to 8 years to finally complete it in 2022. Our group highly values the master's teachings, posture corrections, and sparring. We strongly believe that self-teaching without proper guidance is detrimental.
 
@@ -38,8 +38,11 @@ Together, we can experience our group's three main goals: **Health, Fun, and Sel
 *   **My Focus:** Internal martial arts includes Tai Chi, Baguazhang, and Xingyiquan. While I learned Chen-style Tai Chi for 4 years, I only know the movements. I know how to generate power using internal principles based on Xingyiquan, but I do not know the specific applications for every Tai Chi movement. Therefore, **I will guide you based on Xingyiquan.** However, I can share Zhan Zhuang (standing meditation), Push Hands, and other foundational rules that cover all three internal martial arts. I will do my best to ensure you gain the three benefits mentioned above.
 ### Let's Connect
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
-*   **Email:** ryankim0423@gmail.com
-*   **Phone:** 780-803-5071 *(Please text first)*
+
+> [!info] 연락처
+> 📧 **Email:** rsun.style@gmail.com
+> 
+> 📝 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtH8N5rRo4WN48KLM6QBmyHNLqmEGHPSNyOaoEftzwhjzTHg/viewform?usp=dialog" target="_blank" rel="noopener noreferrer"><b>👉 Submit a Training Inquiry (Click Here)</b></a>
 
 ![[KakaoTalk_20260813_213622100.jpg]]
 *(With my master and fellow graduates.)*
