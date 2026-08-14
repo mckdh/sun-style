@@ -8,7 +8,7 @@ I am from South Korea, currently in my late 40s. My fascination with Chinese mar
 
 However, I grew frustrated. I wanted to learn the practical applications and the true meanings behind Tai Chi movements and Push Hands, but my master never taught them. They only emphasized Tai Chi as a health exercise, focusing on elegant, ballet-like movements.
 ### Discovering the True Path
-In 2017, I found a [Xingyiquan](https://en.wikipedia.org/wiki/Xingyiquan) group in Korea. My master there had mastered Sun-style Xingyiquan, Baguazhang, and Tai Chi. He emphasized a core truth: **movements without knowing their applications are meaningless.**
+In 2016, I found a [Xingyiquan](https://en.wikipedia.org/wiki/Xingyiquan) group in Korea. My master there had mastered Sun-style Xingyiquan, Baguazhang, and Tai Chi. He emphasized a core truth: **movements without knowing their applications are meaningless.**
 
 I trained under him rigorously. While it usually takes 3 to 4 years to complete the basic training, it took me 7 to 8 years to finally complete it in 2022. Our group highly values the master's teachings, posture corrections, and sparring. We strongly believe that self-teaching without proper guidance is detrimental.
 
