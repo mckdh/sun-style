@@ -10,12 +10,12 @@ However, I always felt something was missing. I wanted to understand the practic
 ### Discovering the True Path
 In 2016, I found a <a href="https://en.wikipedia.org/wiki/Xingyiquan" target="_blank" rel="noopener noreferrer">Xingyiquan</a> group in Korea. My master there had mastered Sun-style Xingyiquan, Baguazhang, and Tai Chi. He emphasized a core truth: **movements without knowing their applications are meaningless.**
 
-I trained under him rigorously. While it usually takes 3 to 4 years to complete the basic training, it took me 7 to 8 years to finally complete it in 2022. Our group highly values the master's teachings, posture corrections, and sparring. We strongly believe that self-teaching without proper guidance is detrimental.
+I trained under him with great joy, constantly amazed by the depth and value of what I was learning. While the essential course to qualify as a guide typically takes 3 to 4 years, it took me 7 to 8 years of consistent practice to finally complete and graduate in 2023. Our group highly values the master's teachings, posture corrections, and sparring. We strongly believe that self-teaching without proper guidance is detrimental.
 
 ![[스크린샷 2026-08-13 214816.png]]
 *(The 12th Graduation Ceremony of the Korea Xingyiquan Research Association. Three of us graduated, pictured here with our master and senior brothers.)*
 ### Why I Am Here
-After completing my training in 2024, I returned to Canada. Since then, I have been training alone. My master taught that completing the training means you can recognize and correct your own mistakes. Fortunately, I can do this to some extent, but **I still miss having a training partner.**
+After graduating in 2023, I returned to Canada in 2024. Since then, I have been training alone. My master taught that completing the training means you can recognize and correct your own mistakes. Fortunately, I can do this to some extent, but **I still miss having a training partner.**
 
 So, I had a thought. Honestly, I am not naturally athletic. Compared to my master and senior brothers in Korea, I still have much to learn.
 
