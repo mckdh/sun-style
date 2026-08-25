@@ -4,7 +4,7 @@ title: "About Me: Ryan Kim"
 # Welcome to Sun Style Internal Martial Arts!
 
 ### My Journey in Martial Arts
-I am from South Korea, currently in my late 40s. My fascination with Chinese martial arts—especially Tai Chi—began in childhood. In my early 30s, I dedicated four years to learning Tai Chi, investing significant time and money, even attending a seminar at Wudang Mountain in China. 
+I am from South Korea, currently in my mid 40s. My fascination with Chinese martial arts—especially Tai Chi—began in childhood. In my early 30s, I dedicated four years to learning Tai Chi, investing significant time and money, even attending a seminar at Wudang Mountain in China. 
 
 However, I grew frustrated. I wanted to learn the practical applications and the true meanings behind Tai Chi movements and Push Hands, but my master never taught them. They only emphasized Tai Chi as a health exercise, focusing on elegant, ballet-like movements.
 ### Discovering the True Path
@@ -15,7 +15,7 @@ I trained under him rigorously. While it usually takes 3 to 4 years to complete 
 ![[스크린샷 2026-08-13 214816.png]]
 *(The 12th Graduation Ceremony of the Korea Xingyiquan Research Association. Three of us graduated, pictured here with our master and senior brothers.)*
 ### Why I Am Here
-After completing my training in 2022, I returned to Canada. Since then, I have been training alone. My master taught that completing the training means you can recognize and correct your own mistakes. Fortunately, I can do this to some extent, but **I still miss having a training partner.**
+After completing my training in 2024, I returned to Canada. Since then, I have been training alone. My master taught that completing the training means you can recognize and correct your own mistakes. Fortunately, I can do this to some extent, but **I still miss having a training partner.**
 
 So, I had a thought. Honestly, I am not naturally athletic. Compared to my master and senior brothers in Korea, I still have much to learn.
 
@@ -31,11 +31,16 @@ At the very least, I can share the following with those interested:
 
 Together, we can experience our group's three main goals: **Health, Fun, and Self-defense.**
 ### Who I Am Looking For
-*   People who learned Tai Chi but were frustrated because centers only taught it as a health exercise, never explaining the meanings and applications of the movements. *(Often, they don't teach it because they don't know it themselves).*
-*   People fascinated by Eastern internal martial arts who want to learn from the beginning. 
-*(Note: Internal martial arts is not a mystical practice of shooting "Qi". It is a science based on physics.)*
+* **Tai Chi practitioners seeking real martial applications:**
+  * *With complete respect to local Tai Chi centers that do wonderful work promoting health and wellness*, Tai Chi was originally born as a sophisticated and devastating martial art.
+  * If you have practiced the forms but felt frustrated by the lack of martial explanations—such as joint locks (Qin-na), sweeps, internal striking, and real self-defense principles—you are very welcome here. Let’s unlock the martial soul behind the movements together.
+* **Curious beginners fascinated by Eastern internal martial arts:**
+  * Anyone who wants to build solid fundamentals from the ground up.
+  * *(Note: Internal martial arts is not a mystical practice of shooting "Qi". It is a practical body science based on biomechanics and physics.)*
 ### Full Transparency
-*   **My Focus:** While internal martial arts consists of Tai Chi, Baguazhang, and Xingyiquan, **my guidance is firmly rooted in Xingyiquan.** Although I spent four years learning Chen-style Tai Chi forms, my expertise in internal power generation and practical application comes entirely from Xingyiquan. However, I am more than happy to share foundational practices common to all three arts, such as Zhan Zhuang (standing meditation) and Push Hands, to help you achieve health, fun, and self-defense.
+* **My Focus:** While internal martial arts consists of Tai Chi, Baguazhang, and Xingyiquan, **my guidance is firmly rooted in Xingyiquan.** Although I spent four years learning Chen-style Tai Chi forms, my expertise in internal power generation and practical application comes entirely from Xingyiquan. However, I am more than happy to share foundational practices common to all three arts, such as Zhan Zhuang (standing meditation) and Push Hands, to help you achieve health, fun, and self-defense.
+* The internal engine behind all internal arts (Tai Chi, Xingyi, Bagua) is identical. Xingyiquan is the most direct, straightforward art for decoding structure, explosive power (Fa-jin), and realistic applications.
+* I won't teach you elaborate Tai Chi dance forms, instead, I can help you build the powerful martial engine that makes your internal martial arts truly work.
 ### Let's Connect
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
 
