@@ -38,9 +38,8 @@ Together, we can experience our group's three main goals: **Health, Fun, and Sel
   * Anyone who wants to build solid fundamentals from the ground up.
   * *(Note: Internal martial arts is not a mystical practice of shooting "Qi". It is a practical body science based on biomechanics and physics.)*
 ### Full Transparency
-* **My Focus:** While internal martial arts consists of Tai Chi, Baguazhang, and Xingyiquan, **my guidance is firmly rooted in Xingyiquan.** Although I spent four years learning Chen-style Tai Chi forms, my expertise in internal power generation and practical application comes entirely from Xingyiquan. However, I am more than happy to share foundational practices common to all three arts, such as Zhan Zhuang (standing meditation) and Push Hands, to help you achieve health, fun, and self-defense.
-* The internal engine behind all internal arts (Tai Chi, Xingyi, Bagua) is identical. Xingyiquan is the most direct, straightforward art for decoding structure, explosive power (Fa-jin), and realistic applications.
-* I won't focus on long forms or gentle health exercises; instead, I can help you build the powerful martial engine that makes your internal martial arts truly work.
+* **Rooted in Xingyiquan:** While internal martial arts includes Tai Chi, Baguazhang, and Xingyiquan, all three share the exact same internal engine. My deep training is firmly rooted in Xingyiquan—the most direct and practical art for mastering body structure, explosive power (Fa-jin), and realistic combat applications.
+* **Principles Over Long Forms:** I won't teach long choreography or gentle health exercises. Instead, we focus on universal fundamentals—such as Zhan Zhuang (standing meditation), Push Hands, and power mechanics—to help you build a real martial engine for health, fun, and self-defense.
 ### Let's Connect
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
 
