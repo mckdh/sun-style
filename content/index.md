@@ -1,5 +1,5 @@
 ---
-title: "About Me: Ryan Kim"
+title: "Sun Style Internal Martial Arts: Tai Chi, Xingyi & Bagua"
 ---
 # Welcome to Sun Style Internal Martial Arts!
 
@@ -44,6 +44,8 @@ Together, we can experience our group's three main goals: **Health, Fun, and Sel
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
 
 > [!info] Contact Info
+> 👤 **Ryan Kim**
+> 
 > 📧 **Email:** rsun.style@gmail.com
 > 
 > 📝 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtH8N5rRo4WN48KLM6QBmyHNLqmEGHPSNyOaoEftzwhjzTHg/viewform?usp=dialog" target="_blank" rel="noopener noreferrer"><b>👉 Submit a Training Inquiry (Click Here)</b></a>
