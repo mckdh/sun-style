@@ -21,8 +21,7 @@ title: "Xingyi Quan Curriculum"
 - Prepare for the completion / graduation ceremony.
 
 ### Post-Graduation
-* Acquire advanced arts and internal skills through continued exchange with the master and senior brothers in Korea:
-  * Advanced Arts: Baguazhang, Taijiquan, Xingyi Sword, Bagua Sword, Taiji Sword, etc.
+* Acquire advanced techniques through continued exchange with the master and senior brothers in Korea.
 * Gain qualification to teach and guide others.
 
 ---
