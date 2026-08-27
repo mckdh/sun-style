@@ -1,6 +1,9 @@
 ---
-title: Sun Style Xingyi Quan Roadmap
+title: "Roadmap"
 ---
+
+# Sun Style Xingyi Quan Roadmap
+
 ## 📌 Yearly Milestones
 
 ### Year 1: Foundation & Mechanics
