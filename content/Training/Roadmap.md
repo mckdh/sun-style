@@ -162,7 +162,7 @@ flowchart TD
     S3 -->|"Embody Sticking Energy & Transition to Free Combat"| S4
 ```
 ## Advanced Skills after Graduation
-We can learn with my master and senior brothers in South Korea.
+We can learn these with my master and senior brothers in South Korea.
 
 ![[Screenshot 2026-08-27 at 4.48.35 PM.png|498]]
 (The official Sun Style Bagua)
