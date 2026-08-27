@@ -10,7 +10,7 @@ title: "Roadmap"
 - Become familiar with the basic stances and body mechanics (structure) of Xingyiquan.
 - Build solid basic physical fitness and a strong lower-body root.
 
-### Year 2: Elastic Power & Sensitivity
+### Year 2: Explosive power & Free push hands
 - Learn the fundamentals of Xingyiquan explosive power (Fajin) that bursts forth with the entire body connected as one.
 - Begin pre-arranged sparring and free push hands (Tuishou) to lightly exchange force with training partners.
 
