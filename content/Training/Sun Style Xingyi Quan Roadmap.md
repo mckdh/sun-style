@@ -1,9 +1,6 @@
 ---
-title: "Xingyi Quan Curriculum"
+title: Training
 ---
-
-# Xingyi Quan Curriculum
-
 ## 📌 Yearly Milestones
 
 ### Year 1: Foundation & Mechanics
@@ -21,7 +18,8 @@ title: "Xingyi Quan Curriculum"
 - Prepare for the completion / graduation ceremony.
 
 ### Post-Graduation
-* Acquire advanced techniques through continued exchange with the master and senior brothers in Korea.
+* Acquire advanced arts and internal skills through continued exchange with the master and senior brothers in Korea:
+  * Advanced Arts: Baguazhang, Taijiquan, Xingyi Sword, Bagua Sword, Taiji Sword, etc.
 * Gain qualification to teach and guide others.
 
 ---
