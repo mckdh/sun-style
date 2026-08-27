@@ -1,5 +1,5 @@
 ---
-title: Training
+title: Sun Style Xingyi Quan Roadmap
 ---
 ## 📌 Yearly Milestones
 
