@@ -47,6 +47,8 @@ title: "Roadmap"
 - **Cannon Fist (Paoquan / Fire)** - Explosive expanding power where both hands open and close—one hand blocking while the other strikes upward diagonally like an exploding cannonball. (Heart conditioning)
 - **Crossing Fist (Hengquan / Earth)** - A spiraling horizontal energy that shifts the central axis like a rolling log, sweeping aside the opponent's punch to penetrate and bounce them off. (Spleen conditioning)
 
+![[Screenshot 2026-08-27 at 4.41.32 PM.png|244]]
+(The great master's Splitting Fist)
 #### Twelve Animal Forms
 - **Dragon** - A spiraling takedown that twists the torso and spine to penetrate, lift, and throw, just like a dragon surging through the clouds.
 - **Tiger** - Fierce downward and forward destructive power that pounces, tears, and pushes with both hands, like a ferocious tiger ambushing prey.
@@ -59,7 +61,8 @@ title: "Roadmap"
 - **Snake** - Flexible penetrating technique that lowers the body to slip under the opponent's armpits and blind angles, like a snake crawling through the grass.
 - **Ostrich / Large Bird** - Expansive power that swings both arms wide like flapping large wings, shaking and collapsing the opponent's balance from side to side.
 - **Eagle & Bear Combined** - The highest-level technique unifying offense and defense into one by combining the heavy downward defense of the Bear with the sharp snatching of the Eagle.
-
+![[Screenshot 2026-08-27 at 4.42.37 PM.png|331]]
+(One of my senior brother's Dragon form)
 ### 2-2. Core Principles
 - **Eye Focus / Vision** - Method of securing visual field by placing gaze in the sequence of fist, elbow, shoulder, and opponent's eyes without losing track of their entire centerline.
 - **Footwork** - Foot movements that maintain balance without losing stability, including stationary step (staying foot), follow step (trailing foot), pushing step (sliding foot), and lively step (free agility).
@@ -74,9 +77,10 @@ title: "Roadmap"
 - **Advancing & Retreating Linking Fist** - The foundational form weaving the Five Element fists into forward and backward flowing combinations to learn smooth transitions and continuous offensive/defensive flow.
 - **Eight Postures Form** - Intermediate form training the concentration of internal power and combination of diverse forces through 8 core techniques.
 - **Mixed Postures Form** - An advanced, comprehensive form freely blending key techniques of the Five Elements and Twelve Animals to cover all realistic combat variations.
+![[Screenshot 2026-08-27 at 4.44.43 PM.png|341]]
+(One of my senior brother's Solo Extended Form)
 
 ---
-
 ## 4. Partner Pre-arranged Drills
 
 - **Piquan Sparring** - Foundational sparring exchanging the offense and defense of Splitting Fist to master distance management and deflecting incoming force at the point of contact.
@@ -85,8 +89,10 @@ title: "Roadmap"
 - **Five Flowers Cannon** - Applied dynamic sparring that neutralizes the opponent's attack at faster, multi-dimensional angles and immediately executes explosive power.
 - **Body-Pacifying Cannon (Anshenpao)** - A long-sequence pre-arranged combat routine compiling Five Elements and Twelve Animals techniques, perfecting a complete full-body defense system prior to free sparring.
 
----
+![[Screenshot 2026-08-27 at 4.45.59 PM.png|442]]
+(My Body-Pacifying Cannon)
 
+---
 ## 5. Push Hands (Push Hands - Sensing & Control)
 
 * **Single Push Hands** - Foundational push hands matching one hand to read the direction of the opponent's force and collapse their center.
@@ -100,11 +106,15 @@ title: "Roadmap"
 - **Old-Style Sanshou** - Three practical combat applications taught by my master in the early days of the research association.
 - **Modern/Advanced Sanshou** - New, practical Xingyiquan combat methods researched and developed by my master.
 
----
+![[Screenshot 2026-08-27 at 4.50.43 PM.png|385]]
+(My one of Shashou skill)
 
+---
 ## 7. Weapons
 
-- **Staff / Five Elements Staff** - Weapons training using a wooden staff as an extension of one's arms to develop Five Element power release, long-range distance awareness, and martial courage.
+- **Staff / Five Elements Staff** - Weapons training using a wooden staff as an extension of one's arms to develop Five Element power release, long-range distance awareness, and martial courage. 
+![[Screenshot 2026-08-27 at 4.47.34 PM.png|505]]
+(The staff sparring)
 
 ---
 
@@ -151,3 +161,21 @@ flowchart TD
     S2 -->|"Expansion of Five Element Powers & Footwork"| S3
     S3 -->|"Embody Sticking Energy & Transition to Free Combat"| S4
 ```
+## Advanced Skills after Graduation
+We can learn with my master and senior brothers in South Korea.
+
+![[Screenshot 2026-08-27 at 4.48.35 PM.png|498]]
+(The official Sun Style Bagua)
+
+![[Screenshot 2026-08-27 at 4.51.27 PM.png|496]]
+(The official Sun Style Taichi)
+
+![[Screenshot 2026-08-27 at 4.50.02 PM.png|503]]
+(The official Sun Style Xingyi Sword)
+
+![[Screenshot 2026-08-27 at 4.49.07 PM.png|511]]
+(The official Sun Style Bagua Sword)
+
+![[Screenshot 2026-08-27 at 4.51.55 PM.png|503]]
+(The official Sun Style Taichi Sword)
+
