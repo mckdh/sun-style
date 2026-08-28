@@ -4,28 +4,23 @@ title: "Roadmap"
 # Sun Style Xingyi Quan Roadmap
 
 ## 📌 Yearly Milestones
-
 ### Year 1: Foundation & Mechanics
 - Become familiar with the basic stances and body mechanics (structure) of Xingyiquan.
 - Build solid basic physical fitness and a strong lower-body root.
-
 ### Year 2: Explosive Power & Free Push Hands
 - Learn the fundamentals of Xingyiquan explosive power (Fajin) that bursts forth with the entire body connected as one.
 - Begin pre-arranged sparring and free push hands (Tuishou) to lightly exchange force with training partners.
-
 ### Year 3+: Mastery & Free Combat
 - Complete all hand forms and solo extended routines (Taolu).
 - Embody martial applications to deliver power and subdue opponents through sparring and practical combat (Sanshou).
 - Develop self-correction ability to independently identify and fix one's own incorrect movements.
 - Prepare for the completion / graduation ceremony.
-
 ### Post-Graduation
 * Acquire advanced arts and internal skills through continued exchange with the master and senior brothers in Korea:
   * Advanced Arts: Baguazhang, Taijiquan, Xingyi Sword, Bagua Sword, Taiji Sword, etc.
 * Gain qualification to teach and guide others.
 
 ---
-
 ## 1. Foundational Training
 
 - **Flexibility & Relaxation** - Stretching that facilitates Xingyiquan-style relaxation (removing unnecessary tension) and gently opens stiff joints and ligaments.
@@ -127,55 +122,22 @@ title: "Roadmap"
 - **Breakfalls / Safe Landing** - Essential safety skills to disperse impact across the entire body when thrown or knocked down, preventing injury.
 
 ---
+## Advanced Arts after Graduation
 
-## 📊 Curriculum Roadmap
-
-```mermaid
-flowchart TD
-    subgraph S1 ["Stage 1: Foundational Training"]
-        A1["Flexibility & Relaxation"]
-        A2["Hunyuan Standing Meditation"]
-        A3["Wall-Facing Squats"]
-        A4["Santi Stance"]
-        A5["Fast Stepping (Arrow Step)"]
-    end
-
-    subgraph S2 ["Stage 2: Forms & Mechanics"]
-        B1["Five Element Fists: Pi, Beng, Zuan, Pao, Heng"]
-        B2["Twelve Animal Forms"]
-        B3["Solo Forms: Linking Fist, Eight Postures, Mixed Form"]
-    end
-
-    subgraph S3 ["Stage 3: Partner Drills & Sensing"]
-        C1["Partner Drills: Three Hands, Five Elements, Anshenpao"]
-        C2["8 Push Hands Methods & Sensitivity"]
-        C3["Specialized Skills: Samgobi, Joint Locks, Sweeps"]
-    end
-
-    subgraph S4 ["Stage 4: Practical Application & Weapons"]
-        D1["Sanshou: Old-Style & Modern Sanshou"]
-        D2["Staff: Five Elements Staff"]
-    end
-
-    S1 -->|"Establish Body Structure & Full Connection (Zhengjin)"| S2
-    S2 -->|"Expansion of Five Element Powers & Footwork"| S3
-    S3 -->|"Embody Sticking Energy & Transition to Free Combat"| S4
-```
-## Advanced Skills after Graduation
-We can learn these with my master and senior brothers in South Korea.
+If you wish to learn even deeper and more advanced arts, we can either invite my master and senior brothers from South Korea here, or travel to Korea together to learn directly from them.
 
 ![[Screenshot 2026-08-27 at 4.48.35 PM.png|498]]
-(The official Sun Style Bagua)
+*(Authentic Sun-Style Baguazhang)*
 
 ![[Screenshot 2026-08-27 at 4.51.27 PM.png|496]]
-(The official Sun Style Taichi)
+*(Authentic Sun-Style Taijiquan)*
 
 ![[Screenshot 2026-08-27 at 4.50.02 PM.png|503]]
-(The official Sun Style Xingyi Sword)
+*(Authentic Sun-Style Xingyi Sword)*
 
 ![[Screenshot 2026-08-27 at 4.49.07 PM.png|511]]
-(The official Sun Style Bagua Sword)
+*(Authentic Sun-Style Bagua Sword)*
 
 ![[Screenshot 2026-08-27 at 4.51.55 PM.png|503]]
-(The official Sun Style Taichi Sword)
+*(Authentic Sun-Style Taiji Sword)*
 
