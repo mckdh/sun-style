@@ -55,3 +55,10 @@ I live in Windermere, Edmonton. If you are interested in exploring true internal
 
 ![[KakaoTalk_20260813_223349585.png]]
 *(Demonstrating the explosive power (Fajin) of Bengquan during my graduation test.)*
+
+---
+
+### 🗺️ Training Roadmap
+Curious about our step-by-step training progression from foundational body mechanics to practical combat and advanced arts?
+
+👉 **[[Training/Roadmap|Explore the Sun Style Xingyi Quan Roadmap]]**
