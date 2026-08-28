@@ -61,7 +61,7 @@ title: "Roadmap"
 ### 2-2. Core Principles
 - **Eye Focus / Vision** - Method of securing visual field by placing gaze in the sequence of fist, elbow, shoulder, and opponent's eyes without losing track of their entire centerline.
 - **Footwork** - Foot movements that maintain balance without losing stability, including stationary step (staying foot), follow step (trailing foot), pushing step (sliding foot), and lively step (free agility).
-- **Martial Application** - Gaining real-world combative mechanics—striking, locking, and throwing—beyond the external appearance of movements.
+- **Martial Application** - Gaining real-world self-defense mechanics—striking, locking, and throwing—beyond the external appearance of movements.
 - **Whole-Body Structural Power (Zhengjin)** - The core structural system that aligns the spine, joints, and fascia according to postural principles, locking the entire body into a single elastic unit from head to soles.
 - **Body Mechanics & Postural Principles (Shenfa Yaojue)** - Essential assembly guidelines—such as suspending the crown, sinking shoulders and dropping elbows, hollowing chest and plucking back, centering the tailbone, and folding the hip crease—to remove stiff tension (crude force) and align the whole body into a perfect spring structure.
 
@@ -71,7 +71,7 @@ title: "Roadmap"
 
 - **Advancing & Retreating Linking Fist** - The foundational form weaving the Five Element fists into forward and backward flowing combinations to learn smooth transitions and continuous offensive/defensive flow.
 - **Eight Postures Form** - Intermediate form training the concentration of internal power and combination of diverse forces through 8 core techniques.
-- **Mixed Postures Form** - An advanced, comprehensive form freely blending key techniques of the Five Elements and Twelve Animals to cover all realistic combat variations.
+- **Mixed Postures Form** - An advanced, comprehensive form freely blending key techniques of the Five Elements and Twelve Animals to cover all realistic self-defense variations.
 ![[Screenshot 2026-08-27 at 4.44.43 PM.png|341]]
 (One of my senior brother's Solo Extended Form)
 
