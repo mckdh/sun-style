@@ -10,9 +10,9 @@ title: "Roadmap"
 ### Year 2: Explosive Power & Free Push Hands
 - Learn the fundamentals of Xingyiquan explosive power (Fajin) that bursts forth with the entire body connected as one.
 - Begin pre-arranged sparring and free push hands (Tuishou) to lightly exchange force with training partners.
-### Year 3+: Mastery & Free Combat
+### Year 3+: Mastery & Practical Applications
 - Complete all hand forms and solo extended routines (Taolu).
-- Embody martial applications to deliver power and subdue opponents through sparring and practical combat (Sanshou).
+- Embody injury-free self-defense applications to deliver power and control opponents through sparring and practical partner drills (Sanshou).
 - Develop self-correction ability to independently identify and fix one's own incorrect movements.
 - Prepare for the completion / graduation ceremony.
 ### Post-Graduation
@@ -82,10 +82,10 @@ title: "Roadmap"
 - **Three Hands Cannon** - The fundamental partner drill mastering the 3 core methods of receiving, striking, and taking down without losing sticky contact with the opponent.
 - **Five Elements Cannon** - Pre-arranged sparring exchanging the generating and overcoming cycles of the 5 Five Element techniques to handle clashes of force.
 - **Five Flowers Cannon** - Applied dynamic sparring that neutralizes the opponent's attack at faster, multi-dimensional angles and immediately executes explosive power.
-- **Body-Pacifying Cannon (Anshenpao)** - A long-sequence pre-arranged combat routine compiling Five Elements and Twelve Animals techniques, perfecting a complete full-body defense system prior to free sparring.
+- **Body-Pacifying Cannon (Anshenpao)** - A long-sequence pre-arranged partner routine compiling Five Elements and Twelve Animals techniques, perfecting a complete full-body defense system prior to free sparring.
 
 ![[Screenshot 2026-08-27 at 4.45.59 PM.png|442]]
-(My Body-Pacifying Cannon)
+*(Body-Pacifying Cannon Partner Drill)*
 
 ---
 ## 5. Push Hands (Push Hands - Sensing & Control)
@@ -96,13 +96,13 @@ title: "Roadmap"
 
 ---
 
-## 6. Practical Free Combat (Sanshou)
+## 6. Practical Self-Defense Applications (Sanshou)
 
-- **Old-Style Sanshou** - Three practical combat applications taught by my master in the early days of the research association.
-- **Modern/Advanced Sanshou** - New, practical Xingyiquan combat methods researched and developed by my master.
+- **Old-Style Sanshou** - Three practical self-defense applications taught by my master in the early days of the research association.
+- **Modern/Advanced Sanshou** - New, practical Xingyiquan application methods researched and developed by my master.
 
 ![[Screenshot 2026-08-27 at 4.50.43 PM.png|385]]
-(My one of Shashou skill)
+*(Practical Sanshou Application)*
 
 ---
 ## 7. Weapons

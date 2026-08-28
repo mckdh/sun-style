@@ -38,7 +38,7 @@ Together, we can experience our group's three main goals: **Health, Fun, and Sel
   * Anyone who wants to build solid fundamentals from the ground up.
   * *(Note: Internal martial arts is not a mystical practice of shooting "Qi". It is a practical body science based on biomechanics and physics.)*
 ### Full Transparency
-* **Rooted in Xingyiquan:** While internal martial arts includes Tai Chi, Baguazhang, and Xingyiquan, all three share the exact same internal engine. My deep training is firmly rooted in Xingyiquan—the most direct and practical art for mastering body structure, explosive power (Fa-jin), and realistic combat applications.
+* **Rooted in Xingyiquan:** While internal martial arts includes Tai Chi, Baguazhang, and Xingyiquan, all three share the exact same internal engine. My deep training is firmly rooted in Xingyiquan—the most direct and practical art for mastering body structure, explosive power (Fa-jin), and realistic self-defense applications.
 * **Principles Over Long Forms:** I won't teach long choreography or gentle health exercises. Instead, we focus on universal fundamentals—such as Zhan Zhuang (standing meditation), Push Hands, and power mechanics—to help you build a real martial engine for health, fun, and self-defense.
 ### Let's Connect
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
@@ -59,6 +59,6 @@ I live in Windermere, Edmonton. If you are interested in exploring true internal
 ---
 
 ### 🗺️ Training Roadmap
-Curious about our step-by-step training progression from foundational body mechanics to practical combat and advanced arts?
+Curious about our step-by-step training progression from foundational body mechanics to injury-free self-defense applications and advanced arts?
 
 👉 **[[Training/Roadmap|Explore the Sun Style Xingyi Quan Roadmap]]**
