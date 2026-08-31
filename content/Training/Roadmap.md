@@ -126,6 +126,9 @@ title: "Roadmap"
 
 If you wish to learn even deeper and more advanced arts, we can either invite my master and senior brothers from South Korea here, or travel to Korea together to learn directly from them.
 
+> [!tip] Direct Connection to Our Master in South Korea
+> Even if you are not training with me locally, if you ever plan to travel to South Korea, I will gladly connect you directly with my master and our research association in Korea. Feel free to contact me via email anytime!
+
 ![[Screenshot 2026-08-27 at 4.48.35 PM.png|498]]
 *(Authentic Sun-Style Baguazhang)*
 
