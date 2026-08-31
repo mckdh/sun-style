@@ -14,15 +14,25 @@ I trained under him with great joy, constantly amazed by the depth and value of 
 
 ![[스크린샷 2026-08-13 214816.png]]
 *(The 12th Graduation Ceremony of the Korea Xingyiquan Research Association. Three of us graduated, pictured here with our master and senior brothers.)*
-### Why I Am Here
-After graduating in 2023, I returned to Canada in 2024. Since then, I have been training alone. My master taught that completing the training means you can recognize and correct your own mistakes. Fortunately, I can do this to some extent, but **I still miss having a training partner.**
+### Why I Am Here: Growing Together
+After graduating in 2023, I returned to Canada in 2024. In our Korea Xingyiquan Research Association, we believe that true internal martial arts cannot be mastered in isolation. Our lineage places immense value on **hands-on structural corrections, push hands, and controlled sparring**—which makes having dedicated training partners absolutely essential.
 
-So, I had a thought. Honestly, I am not naturally athletic. Compared to my master and senior brothers in Korea, I still have much to learn.
+While my master taught me how to recognize and self-correct my own practice, solo training only takes you so far. I deeply miss the dynamic energy and mutual feedback of partner practice in Canada.
 
-But a great coach doesn't have to be a great player.
-*   **Ice Hockey:** Jon Cooper never played in the NHL but won two Stanley Cups as a head coach.
-*   **Soccer:** José Mourinho had an unremarkable playing career but became one of the greatest managers in history.
-*   **Baseball:** Buck Showalter never played in the Major Leagues but won Manager of the Year four times.
+Traditionally, people expect a martial arts "master" to possess superhuman athleticism and mythical authority. Because I am not a naturally gifted athlete and still have much to learn compared to my master in Korea, I initially hesitated to step forward as a teacher.
+
+However, through 7 to 8 years of perseverance and never giving up, I earned my official graduation certificate with the authority to instruct, and was **formally granted permission by my master to teach and share our lineage here in Canada.**
+
+Then came a shift in perspective: **We learn and grow best by sharing.**
+
+By guiding a local group, I can find the dedicated practice partners needed to keep sharpening our skills together. In return, I am fully committed to giving you my absolute best—sharing authentic lineage principles, precise structural corrections, and practical applications so you can achieve your goals.
+
+As sports history repeatedly proves, a great coach doesn't have to be a superstar athlete:
+*   **Ice Hockey:** Jon Cooper never played in the NHL, yet won two Stanley Cups as a head coach.
+*   **Soccer:** José Mourinho had an unremarkable playing career, but became one of the greatest managers in history.
+*   **Baseball:** Buck Showalter never played in the Major Leagues, but won Manager of the Year four times.
+
+My mission is not to act like an untouchable guru, but to be an officially authorized, dedicated coach and training partner who walks the path alongside you.
 ### What We Can Share
 At the very least, I can share the following with those interested:
 *   The **principles** of internal martial arts.
@@ -39,7 +49,8 @@ Together, we can experience our group's three main goals: **Health, Fun, and Sel
   * *(Note: Internal martial arts is not a mystical practice of shooting "Qi". It is a practical body science based on biomechanics and physics.)*
 ### Full Transparency
 * **Rooted in Xingyiquan:** While internal martial arts includes Tai Chi, Baguazhang, and Xingyiquan, all three share the exact same internal engine. My deep training is firmly rooted in Xingyiquan—the most direct and practical art for mastering body structure, explosive power (Fa-jin), and realistic self-defense applications.
-* **Principles Over Long Forms:** I won't teach long choreography or gentle health exercises. Instead, we focus on universal fundamentals—such as Zhan Zhuang (standing meditation), Push Hands, and power mechanics—to help you build a real martial engine for health, fun, and self-defense.
+* **Principles Over Long Forms:** I won't teach long choreography or gentle health exercises. Instead, we focus on universal fundamentals—such as Zhan Zhuang (standing meditation), Push Hands, partner testing, and power mechanics—to help you build a real martial engine for health, fun, and self-defense.
+* **Officially Authorized Coach, Not a Mystical Guru:** I am not a naturally gifted athlete and still have much to learn compared to my master in Korea. But I hold an official graduation certificate and was directly authorized by my master to teach in Canada. Rather than pretending to be a superhuman guru, I approach this as a passionate coach and dedicated training partner—providing precise corrections, safe sparring progression, and mutual growth.
 ### Let's Connect
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
 
