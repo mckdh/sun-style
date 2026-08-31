@@ -15,9 +15,7 @@ I trained under him with great joy, constantly amazed by the depth and value of 
 ![[스크린샷 2026-08-13 214816.png]]
 *(The 12th Graduation Ceremony of the Korea Xingyiquan Research Association. Three of us graduated, pictured here with our master and senior brothers.)*
 ### Why I Am Here: Growing Together
-After graduating in 2023, I returned to Canada in 2024. In our Korea Xingyiquan Research Association, we believe that true internal martial arts cannot be mastered in isolation. Our lineage places immense value on **hands-on structural corrections, push hands, and controlled sparring**—which makes having dedicated training partners absolutely essential.
-
-While my master taught me how to recognize and self-correct my own practice, solo training only takes you so far. I deeply miss the hands-on, safe sparring and real feedback of training with a partner.
+After graduating in 2023, I returned to Canada in 2024. In our Korea Xingyiquan Research Association, we believe true internal martial arts cannot be mastered in isolation. While solo training builds personal practice, nothing replaces the **hands-on structural corrections, push hands, and safe sparring** of training with a dedicated partner.
 
 Traditionally, people expect a martial arts "master" to possess superhuman athleticism and mythical authority. Because I am not a naturally gifted athlete and still have much to learn compared to my master in Korea, I initially hesitated to step forward as a teacher.
 
@@ -25,14 +23,9 @@ However, through 7 to 8 years of perseverance and never giving up, I earned my o
 
 Then came a shift in perspective: **We learn and grow best by sharing.**
 
-By guiding a local group, I can find the dedicated practice partners needed to keep sharpening our skills together. In return, I am fully committed to giving you my absolute best—sharing authentic lineage principles, precise structural corrections, and practical applications so you can achieve your goals.
+By guiding a local practice group, I gain the dedicated partners needed to keep sharpening our skills together, while committing myself fully to helping you achieve your goals in health, body mechanics, and practical self-defense.
 
-As sports history repeatedly proves, a great coach doesn't have to be a superstar athlete:
-*   **Ice Hockey:** Jon Cooper never played in the NHL, yet won two Stanley Cups as a head coach.
-*   **Soccer:** José Mourinho had an unremarkable playing career, but became one of the greatest managers in history.
-*   **Baseball:** Buck Showalter never played in the Major Leagues, but won Manager of the Year four times.
-
-My mission is not to act like an untouchable guru, but to be an officially authorized, dedicated coach and training partner who walks the path alongside you.
+As sports history repeatedly proves, a great coach doesn't have to be a superstar athlete (like Jon Cooper in the NHL or José Mourinho in soccer). My mission is not to be an untouchable guru, but an officially authorized, dedicated coach and training partner who walks the path alongside you.
 ### What We Can Share
 At the very least, I can share the following with those interested:
 *   The **principles** of internal martial arts.
