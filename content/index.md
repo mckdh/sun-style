@@ -17,7 +17,7 @@ I trained under him with great joy, constantly amazed by the depth and value of 
 ### Why I Am Here: Growing Together
 After graduating in 2023, I returned to Canada in 2024. In our Korea Xingyiquan Research Association, we believe that true internal martial arts cannot be mastered in isolation. Our lineage places immense value on **hands-on structural corrections, push hands, and controlled sparring**—which makes having dedicated training partners absolutely essential.
 
-While my master taught me how to recognize and self-correct my own practice, solo training only takes you so far. I deeply miss the dynamic energy and mutual feedback of partner practice in Canada.
+While my master taught me how to recognize and self-correct my own practice, solo training only takes you so far. I deeply miss the hands-on, safe sparring and real feedback of training with a partner.
 
 Traditionally, people expect a martial arts "master" to possess superhuman athleticism and mythical authority. Because I am not a naturally gifted athlete and still have much to learn compared to my master in Korea, I initially hesitated to step forward as a teacher.
 
