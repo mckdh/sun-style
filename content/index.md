@@ -48,6 +48,8 @@ Together, we can experience our group's three main goals: **Health, Fun, and Sel
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
 
 > [!info] Contact Info
+> 🟢 **Current Status (September 2026):** Actively welcoming new training partners & curious beginners!
+> 
 > 👤 **Ryan Kim**
 > 
 > 📧 **Email:** rsun.style@gmail.com
