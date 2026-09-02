@@ -64,7 +64,6 @@ I live in Windermere, Edmonton. If you are interested in exploring true internal
 
 ---
 
-### 🗺️ Training Roadmap
-Curious about our step-by-step training progression from foundational body mechanics to injury-free self-defense applications and advanced arts?
-
-👉 **[[Training/Roadmap|Explore the Sun Style Xingyi Quan Roadmap]]**
+### 🥊 First Classes & Curriculum Roadmap
+* 🌟 **[[Training/First Classes|First Classes & Starter Sessions]]:** Explore our 1:1 postural alignment clinic and introductory Xingyiquan showcase.
+* 🗺️ **[[Training/Roadmap|Sun Style Xingyi Quan Roadmap]]:** Explore our step-by-step training progression from foundational body mechanics to advanced partner drills.
