@@ -144,3 +144,10 @@ If you wish to learn even deeper and more advanced arts, we can either invite my
 ![[Screenshot 2026-08-27 at 4.51.55 PM.png|503]]
 *(Authentic Sun-Style Taiji Sword)*
 
+---
+
+### 🥊 Ready to Begin Your Journey?
+Curious about experiencing our hands-on body mechanics or booking an introductory 1:1 demonstration before diving into the full curriculum?
+
+👉 **[[Training/First Classes|Explore First Classes & Starter Sessions (Alignment Clinic & Showcase)]]**
+

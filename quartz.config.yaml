@@ -159,6 +159,24 @@ plugins:
     enabled: true
   - source: "@quartz-community/explorer"
     enabled: true
+    options:
+      folderDefaultState: open
+      sortFn: |
+        (a, b) => {
+          if (!a.isFolder && b.isFolder) return 1;
+          if (a.isFolder && !b.isFolder) return -1;
+          const getOrder = (node) => {
+            const name = ((node.displayName || "") + " " + (node.slugSegment || "")).toLowerCase();
+            if (name.includes("overview")) return 1;
+            if (name.includes("roadmap")) return 2;
+            if (name.includes("first")) return 3;
+            return 100;
+          };
+          const orderA = getOrder(a);
+          const orderB = getOrder(b);
+          if (orderA !== orderB) return orderA - orderB;
+          return (a.displayName || "").localeCompare(b.displayName || "", undefined, { numeric: true, sensitivity: "base" });
+        }
     layout:
       position: left
       priority: 50
