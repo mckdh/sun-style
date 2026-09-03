@@ -24,9 +24,9 @@ title: "Roadmap"
 ## 1. Foundational Training
 
 - **Flexibility & Relaxation** - Stretching that facilitates Xingyiquan-style relaxation (removing unnecessary tension) and gently opens stiff joints and ligaments.
-- **Hunyuan Posture / Standing Meditation** - Standing still as if hugging a large tree or a round exercise ball, erecting the spinal centerline (Zhongzheng) and turning the whole body into an elastic unit like a round rubber ball.
+- **Hunyuan Standing Posture (Tree Hugging / Zhan Zhuang)** - Standing still as if hugging a large tree or a round exercise ball, erecting the spinal centerline (Zhongzheng) and turning the whole body into an elastic unit like a round rubber ball.
 - **Wall-Facing Squats** - Squats performed with the nose and knees right up against a wall, training to erect the spine without arching the lower back, fold the hip crease (Kua), build a solid lower-body root, and further recognize the body's center.
-- **Santi Stance / Trinity Posture** - The core engine from which all Xingyiquan power erupts. The most important standing meditation that places 70–80% of body weight on the rear foot and binds the whole body into one like a tautly drawn bowstring.
+- **Trinity Stance (Santi-shi / Santi Stance)** - The core engine from which all Xingyiquan power erupts. The most important standing meditation that places 70–80% of body weight on the rear foot and binds the whole body into one like a tautly drawn bowstring.
 - **Fast Stepping / Arrow Step** - Xingyiquan's signature advancing step that strongly springs off the ground with the rear foot to shoot the entire body forward like a flying arrow.
 
 ---
@@ -78,7 +78,7 @@ title: "Roadmap"
 ---
 ## 4. Partner Pre-arranged Drills
 
-- **Piquan Sparring** - Foundational sparring exchanging the offense and defense of Splitting Fist to master distance management and deflecting incoming force at the point of contact.
+- **Splitting Fist Partner Drill (Piquan Sparring)** - Foundational sparring exchanging the offense and defense of Splitting Fist to master distance management and deflecting incoming force at the point of contact.
 - **Three Hands Cannon** - The fundamental partner drill mastering the 3 core methods of receiving, striking, and taking down without losing sticky contact with the opponent.
 - **Five Elements Cannon** - Pre-arranged sparring exchanging the generating and overcoming cycles of the 5 Five Element techniques to handle clashes of force.
 - **Five Flowers Cannon** - Applied dynamic sparring that neutralizes the opponent's attack at faster, multi-dimensional angles and immediately executes explosive power.
@@ -88,7 +88,7 @@ title: "Roadmap"
 *(Body-Pacifying Cannon Partner Drill)*
 
 ---
-## 5. Push Hands (Push Hands - Sensing & Control)
+## 5. Push Hands (Tuishou - Sensing & Control)
 
 * **Single Push Hands** - Foundational push hands matching one hand to read the direction of the opponent's force and collapse their center.
 * **Double Push Hands** - Push hands matching both hands, maintaining full-body connection while exchanging offensive and defensive pressures.
@@ -96,7 +96,7 @@ title: "Roadmap"
 
 ---
 
-## 6. Practical Self-Defense Applications (Sanshou)
+## 6. Practical Self-Defense Applications (Sanshou / Partner Drills)
 
 - **Old-Style Sanshou** - Three practical self-defense applications taught by my master in the early days of the research association.
 - **Modern/Advanced Sanshou** - New, practical Xingyiquan application methods researched and developed by my master.
@@ -115,7 +115,7 @@ title: "Roadmap"
 
 ## 8. Specialized Techniques
 
-- **Grappling & Joint Locks (3 Methods)** - Three essential joint-locking techniques to easily subdue opponents by twisting and bending joints without requiring immense physical force.
+- **Grappling & Joint Locks (Qin-na / 3 Methods)** - Three essential joint-locking techniques to easily subdue opponents by twisting and bending joints without requiring immense physical force.
 - **Lower-Body Control (4 Methods)** - Lower-body takedown skills to hook, step on, kick, and wrap around the opponent's legs to collapse them.
 - **Three Clashing Forearms (Samgobi)** - Essential close-quarters wrestling skill clashing forearms at ultra-close range to contest the centerline and central balance (Zhongzheng).
 - **Blocking Drilling Fist** - A defensive technique that deflects an incoming straight punch upward with a spiraling motion, immediately transitioning into a counterattack (such as connecting to Push Hands Drill #2).

@@ -14,25 +14,18 @@ I trained under him with great joy, constantly amazed by the depth and value of 
 
 ![[스크린샷 2026-08-13 214816.png]]
 *(The 12th Graduation Ceremony of the Korea Xingyiquan Research Association. Three of us graduated, pictured here with our master and senior brothers.)*
-### Why I Am Here: Growing Together
-After graduating in 2023, I returned to Canada in 2024. In our Korea Xingyiquan Research Association, we believe true internal martial arts cannot be mastered in isolation. While solo training builds personal practice, nothing replaces the **hands-on structural corrections, push hands, and safe sparring** of training with a dedicated partner.
+### 🤝 Why I Am Here: Growing Together
+After returning to Canada in 2024, I realized a vital truth: **true internal martial arts cannot be mastered in isolation.** Solo training builds personal mechanics, but nothing replaces the hands-on structural corrections, push hands, and live testing of a dedicated training partner.
 
-Traditionally, people expect a martial arts "master" to possess superhuman athleticism and mythical authority. Because I am not a naturally gifted athlete and still have much to learn compared to my master in Korea, I initially hesitated to step forward as a teacher.
+Honestly, I am not a superhuman athlete or a mystical guru, and **I still have much to learn.** But through 8 years of perseverance under my master in South Korea, I earned my graduation certificate and formal authorization to teach.
 
-However, through 7 to 8 years of perseverance and never giving up, I earned my official graduation certificate with the authority to instruct, and was **formally granted permission by my master to teach and share our lineage here in Canada.**
+**We learn and sharpen our skills best by sharing.** 
 
-Then came a shift in perspective: **We learn and grow best by sharing.**
+My mission is not to be a distant guru, but an authorized coach and active training partner walking the path alongside you. Together, we pursue three core goals:
 
-By guiding a local practice group, I gain the dedicated partners needed to keep sharpening our skills together, while committing myself fully to helping you achieve your goals in health, body mechanics, and practical self-defense.
-
-As sports history repeatedly proves, a great coach doesn't have to be a superstar athlete (like Jon Cooper in the NHL or José Mourinho in soccer). My mission is not to be an untouchable guru, but an officially authorized, dedicated coach and training partner who walks the path alongside you.
-### What We Can Share
-At the very least, I can share the following with those interested:
-*   The **principles** of internal martial arts.
-*   The **correct postures** and why they are absolutely necessary.
-*   The **practical applications** of each movement.
-
-Together, we can experience our group's three main goals: **Health, Fun, and Self-defense.**
+* 🌿 **Health:** Restoring natural posture, spinal decompression, and deep lower-body rooting.
+* 🎯 **Fun:** The genuine excitement of practicing Xingyiquan, testing explosive power release (Fajin), and engaging in safe, dynamic partner sparring.
+* 🛡️ **Self-Defense:** Mastering effortless whole-body structural power and realistic, injury-free combat applications.
 ### Who I Am Looking For
 * **Tai Chi practitioners seeking real martial applications:**
   * *With complete respect to local Tai Chi centers that do wonderful work promoting health and wellness*, Tai Chi was originally born as a sophisticated and devastating martial art.
@@ -41,9 +34,9 @@ Together, we can experience our group's three main goals: **Health, Fun, and Sel
   * Anyone who wants to build solid fundamentals from the ground up.
   * *(Note: Internal martial arts is not a mystical practice of shooting "Qi". It is a practical body science based on biomechanics and physics.)*
 ### Full Transparency
-* **Rooted in Xingyiquan:** While internal martial arts includes Tai Chi, Baguazhang, and Xingyiquan, all three share the exact same internal engine. My deep training is firmly rooted in Xingyiquan—the most direct and practical art for mastering body structure, explosive power (Fa-jin), and realistic self-defense applications.
-* **Principles Over Long Forms:** I won't teach long choreography or gentle health exercises. Instead, we focus on universal fundamentals—such as Zhan Zhuang (standing meditation), Push Hands, partner testing, and power mechanics—to help you build a real martial engine for health, fun, and self-defense.
-* **Officially Authorized Coach, Not a Mystical Guru:** I am not a naturally gifted athlete and still have much to learn compared to my master in Korea. But I hold an official graduation certificate and was directly authorized by my master to teach in Canada. Rather than pretending to be a superhuman guru, I approach this as a passionate coach and dedicated training partner—providing precise corrections, safe sparring progression, and mutual growth.
+* **Rooted in Xingyiquan:** While internal martial arts includes Tai Chi, Baguazhang, and Xingyiquan, all three share the exact same internal engine. My deep training is firmly rooted in Xingyiquan—the most direct and practical art for mastering body structure, explosive power release (Fajin), and realistic self-defense applications.
+* **Principles Over Long Forms:** I won't teach long choreography or gentle health exercises. Instead, we focus on universal fundamentals—such as Standing Meditation (Zhan Zhuang), Push Hands, partner testing, and power mechanics—to help you build a real martial engine for health, fun, and self-defense.
+* **Officially Authorized Coach, Not a Mystical Guru:** Rather than pretending to possess superhuman athleticism or mystical secrets, I focus on honest, practical instruction—providing precise structural corrections, safe partner progression, and mutual growth alongside you.
 ### Let's Connect
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
 
@@ -60,7 +53,7 @@ I live in Windermere, Edmonton. If you are interested in exploring true internal
 *(With my master and fellow graduates.)*
 
 ![[KakaoTalk_20260813_223349585.png]]
-*(Demonstrating the explosive power (Fajin) of Bengquan during my graduation test.)*
+*(Demonstrating the explosive power release (Fajin) of Crushing Fist (Bengquan) during my graduation test.)*
 
 ---
 
