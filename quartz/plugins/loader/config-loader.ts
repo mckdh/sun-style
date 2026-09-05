@@ -509,6 +509,13 @@ export async function loadQuartzConfig(
 
   // Load layout and add PageTypeDispatcher to emitters.
   // This must happen after plugin instantiation so the component registry is populated.
+  try {
+    const customComments = await import("../../components/Comments")
+    componentRegistry.register("@quartz-community/comments", customComments.default, "internal")
+    componentRegistry.register("comments", customComments.default, "internal")
+    componentRegistry.register("Comments", customComments.default, "internal")
+  } catch {}
+
   const layout = await loadQuartzLayout()
   plugins.emitters.push(
     builtinPlugins.PageTypes.PageTypeDispatcher({

@@ -13,7 +13,10 @@ export async function loadComponentsFromPackage(
     const componentsPath = getPluginSubpathEntry(pluginName, "./components")
 
     let componentsModule: Record<string, unknown>
-    if (componentsPath) {
+    if (pluginName === "@quartz-community/comments" || pluginName === "comments") {
+      const customComments = await import("../../components/Comments")
+      componentsModule = { Comments: customComments.default }
+    } else if (componentsPath) {
       componentsModule = await import(toFileUrl(componentsPath))
     } else {
       componentsModule = await import(`${pluginName}/components`)
