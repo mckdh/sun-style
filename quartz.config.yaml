@@ -237,10 +237,22 @@ plugins:
       priority: 5
       condition: not-index
   - source: "@quartz-community/comments"
-    enabled: false
+    enabled: true
     options:
       provider: giscus
-      options: {}
+      options:
+        repo: mckdh/sun-style
+        repoId: R_kgDOT3s2jw
+        category: General
+        categoryId: DIC_kwDOT3s2j84DE6Wc
+        mapping: pathname
+        strict: false
+        reactionsEnabled: true
+        inputPosition: bottom
+        lightTheme: light
+        darkTheme: dark
+        themeUrl: "https://giscus.app/themes"
+        lang: en
     layout:
       position: afterBody
       priority: 10
