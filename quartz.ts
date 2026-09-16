@@ -4,7 +4,7 @@ import { componentRegistry } from "./quartz/components/registry"
 
 const config = await loadQuartzConfig()
 
-// Register custom hybrid Comments component (Cusdis + Giscus)
+// Register custom Comments component (Giscus)
 componentRegistry.register("@quartz-community/comments", Comments, "internal")
 componentRegistry.register("comments", Comments, "internal")
 componentRegistry.register("Comments", Comments, "internal")

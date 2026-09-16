@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import { classNames } from "../util/lang"
 
 export interface Options {
-  provider?: "giscus" | "cusdis"
+  provider?: "giscus"
   options?: {
     repo?: string
     repoId?: string
@@ -24,38 +24,17 @@ function boolToStringBool(b?: boolean) {
 }
 
 export default ((opts?: Options) => {
-  const Comments: QuartzComponent = ({ displayClass, fileData, cfg }: QuartzComponentProps) => {
+  const Comments: QuartzComponent = ({ displayClass, fileData }: QuartzComponentProps) => {
     const commentsOverride = fileData.frontmatter?.comments
     if (commentsOverride === false || commentsOverride === "false") {
       return null
     }
-    const pageUrl = `https://${cfg.baseUrl ?? "mckdh.github.io/sun-style"}/${fileData.slug ?? ""}`
-    const pageTitle = fileData.frontmatter?.title ?? fileData.slug ?? "Sun Style Internal Martial Arts"
-    const pageId = fileData.slug ?? "root"
 
     return (
       <div class={classNames(displayClass, "comments-area")}>
-        <div class="cusdis-wrapper">
-          <h3 style="margin-bottom: 0.25rem; font-size: 1.25rem;">💬 Quick Training Inquiry (No Login Required)</h3>
-          <p style="font-size: 0.9rem; color: var(--gray); margin-bottom: 0.35rem;">
-            No GitHub account needed! Feel free to ask questions regarding classes, schedule, or trial sessions with just your name.
-          </p>
-          <p style="font-size: 0.8rem; color: var(--gray); opacity: 0.8; margin-bottom: 1rem; font-style: italic;">
-            ⚠️ Please be respectful. Inappropriate, offensive, or spam comments will be deleted without notice.
-          </p>
-          <div
-            id="cusdis_thread"
-            data-host="https://cusdis.com"
-            data-app-id="1f5906a9-9a8b-4797-b697-92afa2f78d37"
-            data-page-id={pageId}
-            data-page-url={pageUrl}
-            data-page-title={pageTitle}
-          ></div>
-        </div>
-
         <div class="giscus-wrapper">
-          <h3 style="margin-bottom: 0.25rem; font-size: 1.25rem;">🐙 GitHub Discussions (GitHub Account Required)</h3>
-          <p style="font-size: 0.9rem; color: var(--gray); margin-bottom: 0.35rem;">Welcome in-depth discussions.</p>
+          <h3 style="margin-bottom: 0.25rem; font-size: 1.25rem;">💬 Discussions & Comments</h3>
+          <p style="font-size: 0.9rem; color: var(--gray); margin-bottom: 0.35rem;">GitHub Discussions (GitHub Account Required)</p>
           <p style="font-size: 0.8rem; color: var(--gray); opacity: 0.8; margin-bottom: 1rem; font-style: italic;">
             ⚠️ Inappropriate or disrespectful comments will be removed immediately.
           </p>
@@ -94,51 +73,15 @@ var syncTheme = (theme) => {
   if (gFrame && gFrame.contentWindow) {
     gFrame.contentWindow.postMessage({ giscus: { setConfig: { theme: theme === "dark" ? "dark" : "light" } } }, "https://giscus.app");
   }
-  let cusdisEl = document.getElementById("cusdis_thread");
-  if (cusdisEl) cusdisEl.setAttribute("data-theme", theme);
-  if (window.CUSDIS && typeof window.CUSDIS.setTheme === "function") {
-    window.CUSDIS.setTheme(theme);
-  }
 };
 
 var d = (s) => { syncTheme(s.detail.theme); };
 var n = [], u = (s) => { n.push(s); };
 
 if (typeof document < "u") {
-  let onMsg = (e) => {
-    try {
-      let t = typeof e.data == "string" ? JSON.parse(e.data) : e.data;
-      if (t && t.from === "cusdis" && t.event === "resize") {
-        let iframe = document.querySelector("#cusdis_thread iframe");
-        if (iframe && t.data) iframe.style.height = t.data + "px";
-      }
-    } catch (err) {}
-  };
-  window.addEventListener("message", onMsg);
-
   let renderComments = () => {
     n.forEach((s) => s()), n.length = 0;
     let theme = getActiveTheme();
-
-    let ce = document.getElementById("cusdis_thread");
-    if (ce) {
-      ce.setAttribute("data-theme", theme);
-      if (window.CUSDIS && typeof window.CUSDIS.initial === "function") {
-        if (typeof window.CUSDIS.setTheme === "function") window.CUSDIS.setTheme(theme);
-        window.CUSDIS.initial();
-      } else {
-        let cs = document.createElement("script");
-        cs.src = "https://cusdis.com/js/cusdis.es.js";
-        cs.async = true;
-        cs.defer = true;
-        cs.onload = () => {
-          if (window.CUSDIS && typeof window.CUSDIS.setTheme === "function") {
-            window.CUSDIS.setTheme(getActiveTheme());
-          }
-        };
-        document.body.appendChild(cs);
-      }
-    }
 
     let ge = document.querySelector(".giscus");
     if (ge) {
@@ -176,23 +119,8 @@ if (typeof document < "u") {
   padding-top: 2rem;
   border-top: 2px solid var(--lightgray);
 }
-.cusdis-wrapper {
-  margin-bottom: 2.5rem;
-}
 .giscus-wrapper {
-  padding-top: 2rem;
-  border-top: 1px dashed var(--lightgray);
-}
-#cusdis_thread {
-  width: 100%;
-  min-height: 320px;
-}
-#cusdis_thread iframe {
-  width: 100% !important;
-  min-height: 320px !important;
-  border: none !important;
-  overflow: hidden !important;
-  color-scheme: light dark;
+  margin-bottom: 2rem;
 }
 `
   return Comments
