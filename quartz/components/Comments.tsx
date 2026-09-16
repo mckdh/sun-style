@@ -115,9 +115,7 @@ if (typeof document < "u") {
 
   Comments.css = `
 .comments-area {
-  margin-top: 3rem;
-  padding-top: 2rem;
-  border-top: 2px solid var(--lightgray);
+  margin-top: 0.5rem;
 }
 .giscus-wrapper {
   margin-bottom: 2rem;
