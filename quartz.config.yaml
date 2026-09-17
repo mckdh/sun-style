@@ -5,7 +5,8 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    provider: plausible
+    provider: google
+    tagId: G-WS085SLSE4
   locale: en-US
   baseUrl: mckdh.github.io/sun-style
   ignorePatterns:
