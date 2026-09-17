@@ -78,7 +78,7 @@ A coach must personally demonstrate, exchange force, and use hands-on touch to a
 Books and screens cannot correct your subtle misalignments. Real depth only comes through direct, in-person training.
 
 > **A Word of Caution & Mutual Respect:**  
-> Back when I trained in Korea, we occasionally had visitors from other martial arts schools with bad intentions—secretly trying to spy on our techniques, or even picking fights with my senior brothers. Please do not contact me for these purposes. Having practiced for many years, I can easily recognize when someone comes with hidden motives. I look forward to connecting only with those who come with genuine respect and an open heart to learn.
+> Back when I trained in Korea, we occasionally had visitors from other martial arts schools with bad intentions—secretly trying to spy on or scout our techniques. Please do not contact me for these purposes. Having practiced for many years, I can easily recognize when someone comes with hidden motives. I look forward to connecting only with those who come with genuine respect and an open heart to learn.
 
 ---
 
