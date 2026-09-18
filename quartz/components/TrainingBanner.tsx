@@ -29,7 +29,7 @@ export default (() => {
               <span class="training-banner-location">🍁 Windermere, Edmonton, AB</span>
               <h3 class="training-banner-title">Sun's Internal Martial Arts</h3>
               <p class="training-banner-desc">
-                Xingyiquan, Baguazhang, and Tai Chi. Practical body science based on biomechanics, health, and safe partner progression. Welcoming new training partners &amp; curious beginners!
+                <strong>Rooted in Xingyiquan:</strong> Practical body science based on biomechanics, health, and safe partner progression. Welcoming new training partners &amp; curious beginners!
               </p>
             </div>
             <div class="training-banner-actions">
