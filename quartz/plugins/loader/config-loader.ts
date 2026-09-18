@@ -514,6 +514,10 @@ export async function loadQuartzConfig(
     componentRegistry.register("@quartz-community/comments", customComments.default, "internal")
     componentRegistry.register("comments", customComments.default, "internal")
     componentRegistry.register("Comments", customComments.default, "internal")
+
+    const customSidebarBanner = await import("../../components/SidebarBanner")
+    componentRegistry.register("sidebar-banner", customSidebarBanner.default, "internal")
+    componentRegistry.register("SidebarBanner", customSidebarBanner.default, "internal")
   } catch {}
 
   const layout = await loadQuartzLayout()
@@ -708,12 +712,20 @@ export async function loadQuartzLayout(layoutOverrides?: {
   defaultLayout.header = defaultLayout.header ?? []
   defaultLayout.footer = defaultLayout.footer ?? []
 
+  const SidebarBannerModule = await import("../../components/SidebarBanner")
+  const sidebarBanner = DesktopOnly(SidebarBannerModule.default())
+  defaultLayout.left = defaultLayout.left ?? []
+  defaultLayout.left.push(sidebarBanner)
+
   // Ensure all byPageType entries inherit structural slots
   for (const pageType of Object.keys(byPageType)) {
     const pt = byPageType[pageType]
     if (!pt.head) pt.head = head
     if (!pt.header) pt.header = defaultLayout.header
     if (!pt.footer) pt.footer = defaultLayout.footer
+    if (pt.left && pt.left.length > 0) {
+      pt.left.push(sidebarBanner)
+    }
   }
 
   const mergedDefaults = { ...defaultLayout, ...layoutOverrides?.defaults }

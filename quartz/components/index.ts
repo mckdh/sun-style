@@ -6,10 +6,11 @@ import MobileOnly from "./MobileOnly"
 import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Comments from "./Comments"
+import SidebarBanner from "./SidebarBanner"
 
 export { componentRegistry, defineComponent } from "./registry"
 export { External } from "./external"
 export type { ComponentManifest, RegisteredComponent } from "./registry"
 export type { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-export { Head, Spacer, DesktopOnly, MobileOnly, NotFound, Flex, ConditionalRender, Comments }
+export { Head, Spacer, DesktopOnly, MobileOnly, NotFound, Flex, ConditionalRender, Comments, SidebarBanner }
