@@ -71,7 +71,7 @@ Edmonton winters get very cold, so I will look into renting an indoor space.
 
 ### 📩 Ready to Start?
 
-* 🗺️ **[[Training/Overview|Training Overview]]**
-* 🥋 **[[Training/First Classes|First Classes & Starter Sessions]]**
-* 🧭 **[[Training/Roadmap|Sun Style Xingyi Roadmap]]**
+* 🗺️ **[[Overview|Training Overview]]**
+* 🥋 **[[First Classes|First Classes & Starter Sessions]]**
+* 🧭 **[[Roadmap|Sun Style Xingyi Roadmap]]**
 * 📧 **Email:** rsun.style@gmail.com

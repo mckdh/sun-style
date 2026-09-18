@@ -58,6 +58,6 @@ I live in Windermere, Edmonton. If you are interested in exploring true internal
 ---
 
 ### 🥊 First Classes & Curriculum Roadmap
-* 🌟 **[[Training/First Classes|First Classes & Starter Sessions]]:** Explore our 1:1 postural alignment clinic and introductory Xingyiquan showcase.
-* 🗺️ **[[Training/Roadmap|Sun Style Xingyi Quan Roadmap]]:** Explore our step-by-step training progression from foundational body mechanics to advanced partner drills.
-* 📍 **[[Training/Training Locations|Training Locations & Spaces]]:** Discover our outdoor training grounds and indoor studio facilities in Windermere.
+* 🌟 **[[First Classes|First Classes & Starter Sessions]]:** Explore our 1:1 postural alignment clinic and introductory Xingyiquan showcase.
+* 🗺️ **[[Roadmap|Sun Style Xingyi Quan Roadmap]]:** Explore our step-by-step training progression from foundational body mechanics to advanced partner drills.
+* 📍 **[[Training Locations|Training Locations & Spaces]]:** Discover our outdoor training grounds and indoor studio facilities in Windermere.

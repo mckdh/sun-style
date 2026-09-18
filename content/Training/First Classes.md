@@ -60,7 +60,7 @@ In Option 2, we spend 60 minutes demonstrating Xingyi's core theory, explosive F
 ---
 
 ## 🏛️ Regular Group Training Program
-A structured, step-by-step journey following our **[[Training/Roadmap|Sun Style Xingyi Quan Roadmap]]** from foundational body mechanics to advanced partner drills and weapon arts.
+A structured, step-by-step journey following our **[[Roadmap|Sun Style Xingyi Quan Roadmap]]** from foundational body mechanics to advanced partner drills and weapon arts.
 
 * **Schedule**: 2 sessions per week (~60 mins per session)
 * **Class Format**: Small-group semi-private *(practicing together with 1:1 individual coaching and personalized progression)*
@@ -87,4 +87,4 @@ Classes take place in **Windermere, Edmonton, Alberta**.
 
 * 📧 **Email:** rsun.style@gmail.com
 * 📝 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdtH8N5rRo4WN48KLM6QBmyHNLqmEGHPSNyOaoEftzwhjzTHg/viewform?usp=dialog" target="_blank" rel="noopener noreferrer"><b>Submit a Training Inquiry / Book Your Starter Session</b></a>
-* 🗺️ **[[Training/Roadmap|Explore the Full 3-Year Curriculum Roadmap]]**
+* 🗺️ **[[Roadmap|Explore the Full 3-Year Curriculum Roadmap]]**

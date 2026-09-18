@@ -149,5 +149,5 @@ If you wish to learn even deeper and more advanced arts, we can either invite my
 ### 🥊 Ready to Begin Your Journey?
 Curious about experiencing our hands-on body mechanics or booking an introductory 1:1 demonstration before diving into the full curriculum?
 
-👉 **[[Training/First Classes|Explore First Classes & Starter Sessions (Alignment Clinic & Showcase)]]**
+👉 **[[First Classes|Explore First Classes & Starter Sessions (Alignment Clinic & Showcase)]]**
 
