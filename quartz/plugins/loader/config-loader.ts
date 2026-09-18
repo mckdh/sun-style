@@ -515,9 +515,9 @@ export async function loadQuartzConfig(
     componentRegistry.register("comments", customComments.default, "internal")
     componentRegistry.register("Comments", customComments.default, "internal")
 
-    const customSidebarBanner = await import("../../components/SidebarBanner")
-    componentRegistry.register("sidebar-banner", customSidebarBanner.default, "internal")
-    componentRegistry.register("SidebarBanner", customSidebarBanner.default, "internal")
+    const customTrainingBanner = await import("../../components/TrainingBanner")
+    componentRegistry.register("training-banner", customTrainingBanner.default, "internal")
+    componentRegistry.register("TrainingBanner", customTrainingBanner.default, "internal")
   } catch {}
 
   const layout = await loadQuartzLayout()
@@ -712,12 +712,19 @@ export async function loadQuartzLayout(layoutOverrides?: {
   defaultLayout.header = defaultLayout.header ?? []
   defaultLayout.footer = defaultLayout.footer ?? []
 
+  const TrainingBannerModule = await import("../../components/TrainingBanner")
+  const trainingBanner = TrainingBannerModule.default()
+  defaultLayout.afterBody = [trainingBanner, ...(defaultLayout.afterBody ?? [])]
+
   // Ensure all byPageType entries inherit structural slots
   for (const pageType of Object.keys(byPageType)) {
     const pt = byPageType[pageType]
     if (!pt.head) pt.head = head
     if (!pt.header) pt.header = defaultLayout.header
     if (!pt.footer) pt.footer = defaultLayout.footer
+    if (pageType !== "404" && pt.afterBody) {
+      pt.afterBody = [trainingBanner, ...pt.afterBody]
+    }
   }
 
   const mergedDefaults = { ...defaultLayout, ...layoutOverrides?.defaults }
