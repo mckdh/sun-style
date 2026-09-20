@@ -168,6 +168,12 @@ plugins:
           if (a.isFolder && !b.isFolder) return -1;
           const getOrder = (node) => {
             const name = ((node.displayName || "") + " " + (node.slugSegment || "")).toLowerCase();
+            if (node.isFolder) {
+              if (name.includes("training")) return 1;
+              if (name.includes("xingyi")) return 2;
+              if (name.includes("fun")) return 3;
+              return 50;
+            }
             if (name.includes("overview")) return 1;
             if (name.includes("roadmap")) return 2;
             if (name.includes("first")) return 3;
