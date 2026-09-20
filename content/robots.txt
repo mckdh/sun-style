@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mckdh.github.io/sun-style/sitemap.xml
