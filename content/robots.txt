@@ -2,3 +2,4 @@ User-agent: *
 Allow: /
 
 Sitemap: https://mckdh.github.io/sun-style/sitemap.xml
+Sitemap: https://mckdh.github.io/sun-style/sitemap.txt
