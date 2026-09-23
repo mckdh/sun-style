@@ -170,8 +170,10 @@ plugins:
             const name = ((node.displayName || "") + " " + (node.slugSegment || "")).toLowerCase();
             if (node.isFolder) {
               if (name.includes("training")) return 1;
-              if (name.includes("xingyi")) return 2;
+              if (name.includes("health")) return 2;
               if (name.includes("fun")) return 3;
+              if (name.includes("defense") || name.includes("self-defense")) return 4;
+              if (name.includes("tea") || name.includes("teatalk")) return 5;
               return 50;
             }
             if (name.includes("overview")) return 1;

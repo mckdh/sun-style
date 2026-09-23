@@ -15,15 +15,15 @@ Mount Wudang is a legendary mountain in China. Legend says that a Taoist master 
 
 When I was a kid, I watched the famous Hong Kong movie *Tai Chi Master*, starring Jet Li. Jet Li played Zhang Sanfeng. That movie left a deep impression on me. From that moment on, I always dreamed of learning Tai Chi one day.
 
-![[Fun Story/attachments/스크린샷 2026-09-19 221828.png]]
+![[Tea Talk/attachments/스크린샷 2026-09-19 221828.png]]
 [Jet Li's Tai Chi Master Movie]
 
 After a long and tiring journey, we finally arrived at a small town near Mount Wudang.
 
 First, we attended Master Wang's seminar.
-![[Fun Story/attachments/KakaoTalk_20260919_214932534_03.jpg]]
+![[Tea Talk/attachments/KakaoTalk_20260919_214932534_03.jpg]]
 
-![[Fun Story/attachments/KakaoTalk_20260919_214932534_04.jpg]]
+![[Tea Talk/attachments/KakaoTalk_20260919_214932534_04.jpg]]
 [Photo of Master Wang Fengming]
 
 Master Wang demonstrated the forms and explained some combat applications. However, because it was a large group seminar where everyone just copied his moves from afar, there was practically no personal correction or feedback. Still, copying a famous master in person and training alongside people from different countries was quite a unique experience.
@@ -31,21 +31,21 @@ Master Wang demonstrated the forms and explained some combat applications. Howev
 At the end of our one-week trip, we toured Mount Wudang itself. I believe it is a UNESCO World Heritage site. The mountain is incredibly steep and high. While the Canadian Rocky Mountains feel wide and grand, Mount Wudang feels sharp, rising straight into the sky.
 
 I still remember taking a cable car that climbed up endlessly.
-![[Fun Story/attachments/KakaoTalk_20260919_214932534_06.jpg]]
+![[Tea Talk/attachments/KakaoTalk_20260919_214932534_06.jpg]]
 
-![[Fun Story/attachments/KakaoTalk_20260919_214932534_01.jpg]]
+![[Tea Talk/attachments/KakaoTalk_20260919_214932534_01.jpg]]
 
-![[Fun Story/attachments/KakaoTalk_20260919_214932534.jpg]]
+![[Tea Talk/attachments/KakaoTalk_20260919_214932534.jpg]]
 [Photos of Mount Wudang]
 
 There is one funny scene I still laugh about whenever I recall this trip. On Mount Wudang, there are real Taoist priests walking around in traditional robes.
 
-![[Fun Story/attachments/KakaoTalk_20260919_214932534_02 1.jpg]]
+![[Tea Talk/attachments/KakaoTalk_20260919_214932534_02 1.jpg]]
 [Photo of Taoist Priests]
 
 I could not snap a photo at that exact moment, but I saw those "ancient" Taoist masters sitting around, casually tapping away on their iPhones.
 
-![[Fun Story/attachments/KakaoTalk_20260919_214932534_05.png]]
+![[Tea Talk/attachments/KakaoTalk_20260919_214932534_05.png]]
 
 "Ah, this place really is commercialized," I thought to myself. And it was true. It is a famous tourist destination.
 
