@@ -2,7 +2,7 @@ import sourceMapSupport from "source-map-support"
 sourceMapSupport.install(options)
 import path from "path"
 import { PerfTimer } from "./util/perf"
-import { rm } from "fs/promises"
+import { rm, readFile, writeFile } from "fs/promises"
 import { GlobbyFilterFunction, isGitIgnored } from "globby"
 import { styleText } from "util"
 import { parseMarkdown } from "./processors/parse"
@@ -47,6 +47,22 @@ type BuildData = {
   contentMap: ContentMap
   changesSinceLastBuild: Record<FilePath, ChangeEvent["type"]>
   lastBuildMs: number
+}
+
+async function patchSitemapXml(outputDir: string) {
+  try {
+    const sitemapPath = path.join(outputDir, "sitemap.xml")
+    const sitemapContent = await readFile(sitemapPath, "utf-8")
+    if (!sitemapContent.startsWith("<?xml")) {
+      await writeFile(
+        sitemapPath,
+        `<?xml version="1.0" encoding="UTF-8"?>\n${sitemapContent}`,
+        "utf-8",
+      )
+    }
+  } catch {
+    // sitemap.xml may not exist if disabled
+  }
 }
 
 async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
@@ -95,6 +111,7 @@ async function buildQuartz(argv: Argv, mut: Mutex, clientRefresh: () => void) {
   const filteredContent = filterContent(ctx, parsedFiles)
 
   await emitContent(ctx, filteredContent)
+  await patchSitemapXml(output)
   console.log(
     styleText("green", `Done processing ${markdownPaths.length} files in ${perf.timeSince()}`),
   )
@@ -354,6 +371,7 @@ async function rebuild(changes: ChangeEvent[], clientRefresh: () => void, buildD
     )
     console.log(styleText("green", `Done rebuilding in ${perf.timeSince()}`))
     changes.splice(0, numChangesInBuild)
+    await patchSitemapXml(argv.output)
     clientRefresh()
   } finally {
     release()
