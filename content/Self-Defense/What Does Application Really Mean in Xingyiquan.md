@@ -1,7 +1,7 @@
 ---
 title: "What Does “Application” Really Mean in Xingyiquan?"
 ---
-In my introduction, I pointed out a common frustration with how traditional Chinese martial arts are often taught today. 
+In my introduction, I mentioned something I often noticed about how traditional Chinese martial arts are taught today. 
 
 Many Tai Chi schools focus almost entirely on slow, graceful movements and health benefits. There is nothing wrong with health or moving gracefully. But too often, students practice routines for years without ever learning what those movements were actually designed to do in combat.
 
