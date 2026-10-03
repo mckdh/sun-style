@@ -41,7 +41,7 @@ My mission is not to be a distant guru, but an authorized coach and active train
 I live in Windermere, Edmonton. If you are interested in exploring true internal martial arts together, please feel free to contact me.
 
 > [!info] Contact Info
-> 🟢 **Current Status (September 2026):** Actively welcoming new training partners & curious beginners!
+> 🟢 **Current Status (October 2026):** Actively welcoming new training partners & curious beginners!
 > 
 > 👤 **Ryan Kim**
 > 
