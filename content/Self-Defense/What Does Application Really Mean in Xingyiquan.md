@@ -20,8 +20,9 @@ Xingyiquan is built on the **Five Elements** (五行拳: *Pi, Beng, Zuan, Pao, H
 If you simply watch someone perform these forms, their combat purpose is almost impossible to guess. 
 
 Take the **Dragon Form** (龍形, *Longxing*), for example. At one point, you twist and drop your body low toward the ground. To anyone watching, it looks like an odd stretch or an awkward dance posture. You would never guess how it works in a real fight.
-![[PARA/2.Area/Sun Style/1.Literature/Contents/attachments/main-fun-image.png|381]]
-[The Dragon Form]
+
+![[main-fun-image.png|380]]
+(The Dragon Form)
 
 Behind that posture lies a direct and brutal intent. One application I teach for Dragon Form is straightforward: you grab and pull the opponent’s arm to yank them off-balance, while simultaneously stomping down right above their knee. If executed with real force, it can easily break their leg.
 
