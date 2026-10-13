@@ -64,7 +64,9 @@ A structured, step-by-step journey following our **[[Roadmap|Sun Style Xingyi Qu
 
 * **Schedule**: 2 sessions per week (~60 mins per session)
 * **Class Format**: Small-group semi-private *(practicing together with 1:1 individual coaching and personalized progression)*
-* **Monthly Tuition**: **$200 CAD / month** *(Approx. 8–10 sessions/month)*
+* **Monthly Tuition**:
+  * **First Year**: **$150 CAD / month**
+  * **After 1 Year**: **$200 CAD / month** *(Following our Xingyi Research Association protocol, this is when we begin opening the secrets of internal power / Neijin)*
 * **Out-of-Town / Commuter Students**: If you live outside Edmonton or have an irregular schedule, customized session arrangements are available. Feel free to reach out!
 
 ---
