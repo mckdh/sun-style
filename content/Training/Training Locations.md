@@ -32,7 +32,7 @@ Here in Edmonton, I use the same approach with both outdoor and indoor spaces.
 *(Amble Park, the two toddlers are my twins. 👶👶)*
 
 * **What it is:** A large open park with fresh air and green grass.
-* **Why train here:** Xingyi forms are best practiced in a wide open space so you do not feel cramped, and sparring drills involve moving back and forth a lot, so having plenty of room is great.
+* **Why train here:** Xingyi movements are best practiced in open space so you do not feel cramped. Partner drills also involve moving back and forth across distance, so plenty of room makes a big difference.
 * **Best for:** Spring, summer, and fall classes on dry days.
 
 ---
@@ -42,19 +42,19 @@ Here in Edmonton, I use the same approach with both outdoor and indoor spaces.
 ![[KakaoTalk_20260911_162613157 1.jpg]]
 *(My home's backyard)*
 
-* **What it is:** A quiet, simple and fenced backyard in my house.
+* **What it is:** A quiet, fenced backyard at my home for private practice.
 
 ---
 
 ## 🏠 3. Indoor Space: Home Basement Studio
 
-When the weather is bad or cold, we train in my home basement. It is an unfinished basement and not fancy, but it is a proper space for a few people to train. We have wall mats to practice power release (Fajin / 發勁), and we can practice takedowns (Shuai / 摔) and breakfalls that are hard to do outdoors.
+When the weather is bad or cold, we train in my basement. It is unfinished and nothing fancy, but it has plenty of space for small-group practice. We have wall mats to test power release (Fajin / 發勁), and floor padding to safely practice takedowns (Shuai / 摔) and breakfalls that are tough on open ground.
 
 ---
 
 ### 🛡️ Feeling Safe & Comfortable
 
-Training in a home basement might make some newcomers or female students feel unsure at first. 
+Training in a home space can understandably make some beginners or female students hesitate at first. 
 
 To help you feel at ease:
 * **Safe Neighborhood:** I live in a quiet family community in Windermere (SW Edmonton).
@@ -65,7 +65,7 @@ To help you feel at ease:
 
 ## ❄️ Winter Plan
 
-Edmonton winters get very cold, so I will look into renting an indoor space.
+While the park and backyard work best during warmer months, Edmonton winters mean we will move training into my home basement. 
 
 ---
 

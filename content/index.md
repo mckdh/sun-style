@@ -29,7 +29,7 @@ Natural athletes often move on instinct. They just do it, and they usually strug
 I’m looking for training partners to practice and grow with. My teacher’s school in Korea was built on three straightforward pillars, and that is exactly what we focus on:
 
 - 🌿 **Health:** Standing meditation (Zhan Zhuang) and relaxed rooting that realign your posture and take pressure off your lower back and joints.
-- 🎯 **Fun:** The hands-on enjoyment of partner drills—feeling how force transfers, testing short-range power (Fajin), and learning through safe, cooperative push hands.
+- 🎯 **Fun:** The hands-on enjoyment of partner drills, feeling how force transfers, testing short-range power (Fajin), and learning through safe, cooperative push hands.
 - 🛡️ **Self-Defense:** Practical body mechanics, joint controls, and direct strikes that work through structure and timing rather than brute muscular force.
 
 ### Who Would Enjoy This

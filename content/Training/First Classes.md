@@ -5,10 +5,10 @@ title: "First Classes & Starter Sessions"
 # First Classes & Starter Sessions
 
 My master always emphasized two core principles when teaching:
-> *"Teach martial arts as a passionate side endeavor—having your primary profession prevents unnecessary greed."*  
-> *"What we have learned is profoundly precious. Always teach with fair compensation to preserve its true value."*
+> *"Teach martial arts as a passionate side endeavor; having your primary profession prevents unnecessary greed."*  
+> *"What we have learned is truly valuable. Always charge a fair price to honor that value."*
 
-Honoring my master's teachings, I offer these foundational starter sessions at accessible rates with dedicated, hands-on guidance.
+Following my master's advice, I keep these intro starter sessions affordable and hands-on.
 
 ---
 
@@ -38,7 +38,7 @@ Postural alignment is a lifelong journey, but this session gives you immediate c
 ## 🥋 Option 2: Xingyi Showcase ➡️ Standing Posture Foundation (Zhan Zhuang)
 *(Recommended for beginners & those curious about practical martial arts)*
 
-Tai Chi is widely known for health, but Xingyiquan is lesser known—yet it is the most direct, concise, and rapid path to developing whole-body internal structure and practical self-defense ability.
+Tai Chi is widely known for health, while Xingyiquan is lesser known. Yet Xingyi is the most direct and fastest path to building solid internal structure and practical self-defense.
 
 > *"To stand and defend yourself: Xingyiquan takes 1 year, Baguazhang 3 years, and Taijiquan 10 years."*
 
@@ -48,7 +48,7 @@ Internal martial arts (and virtually all traditional systems) encompass **4 Core
 * **Shuai (摔)**: Takedowns, sweeps & throwing
 * **Na (拿)**: Joint locks & controlling (Qin-na)
 
-Xingyiquan concentrates heavily on **Da & Peng (Striking & Power Release)**, building explosive forward penetration. Baguazhang focuses on Shuai & Na (Throws & Locks), making Xingyi and Bagua an unbeatable combination. *(Tai Chi trains all four together, which is why mastering its internal martial engine takes significantly longer.)*
+Xingyiquan concentrates heavily on **Da & Peng (Striking & Power Release)**, building explosive forward penetration. Baguazhang focuses on Shuai & Na (Throws & Locks), making Xingyi and Bagua a natural pair. *(Tai Chi trains all four together, which is why developing its internal power takes significantly longer.)*
 
 In Option 2, we spend 60 minutes demonstrating Xingyi's core theory, explosive Five Element fists, and real-world applications, followed by learning **Standing Posture (Zhan Zhuang)** for postural alignment, spinal decompression, and lower-body rooting.
 
@@ -66,21 +66,21 @@ A structured, step-by-step journey following our **[[Roadmap|Sun Style Xingyi Qu
 * **Class Format**: Small-group semi-private *(practicing together with 1:1 individual coaching and personalized progression)*
 * **Monthly Tuition**:
   * **First Year**: **$150 CAD / month**
-  * **After 1 Year**: **$200 CAD / month** *(Following our Xingyi Research Association protocol, this is when we begin opening the secrets of internal power / Neijin)*
+  * **After 1 Year**: **$200 CAD / month** *(Following our school protocol, this is when we start diving deeper into internal mechanics / Neijin)*
 * **Out-of-Town / Commuter Students**: If you live outside Edmonton or have an irregular schedule, customized session arrangements are available. Feel free to reach out!
 
 ---
 
-## 🤝 The Invaluable Power of In-Person Training
+## 🤝 The Power of In-Person Training
 My master always reminded us:
 > *"Internal martial arts can never be truly learned from books or online videos."*
 
-A coach must personally demonstrate, exchange force, and use hands-on touch to align the student's structure. Internal martial arts is transmitted through **Tactile Sensation**—feeling the subtle vectors of force and spring elasticity with your own hands.
+A coach has to personally demonstrate, exchange force, and physically adjust the student's posture. Internal martial arts is learned through **touch and physical feedback**: feeling how force moves and experiencing whole-body spring with your own hands.
 
-Books and screens cannot correct your subtle misalignments. Real depth only comes through direct, in-person training.
+Books and video screens cannot fix subtle misalignments. Real depth only comes from practicing with another person.
 
-> **A Word of Caution & Mutual Respect:**  
-> Back when I trained in Korea, we occasionally had visitors from other martial arts schools with bad intentions—secretly trying to spy on or scout our techniques. Please do not contact me for these purposes. Having practiced for many years, I can easily recognize when someone comes with hidden motives. I look forward to connecting only with those who come with genuine respect and an open heart to learn.
+> **A Quick Note on Mutual Respect:**  
+> When I trained in Korea, we occasionally had visitors from other schools trying to scout or test our techniques. If that is your intention, please do not reach out. I am looking for genuine training partners who want to learn, practice safely, and treat each other with respect.
 
 ---
 

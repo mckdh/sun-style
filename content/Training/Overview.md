@@ -4,7 +4,7 @@ title: "Overview"
 
 # Training Overview
 
-Welcome to the **Sun-Style Internal Martial Arts** training section. Here you can explore our introductory sessions, progression roadmaps, foundational mechanics, and training guides.
+Here you can find our starter sessions, progression roadmap, and training locations for Sun-Style Internal Martial Arts.
 
 ---
 
@@ -15,8 +15,8 @@ Welcome to the **Sun-Style Internal Martial Arts** training section. Here you ca
 * **[[Roadmap|👉 Sun Style Xingyi Quan Roadmap]]**
   * The complete step-by-step curriculum from foundational body mechanics (Zhengjin) and Five Element Fists to Twelve Animal Forms, Push Hands (Tuishou), and practical self-defense applications (Sanshou).
 * **[[Training Locations|👉 Training Locations & Spaces]]**
-  * Dedicated outdoor training grounds (Amble Park, private backyard) and indoor studio facilities with seasonal winter strategies.
+  * Dedicated outdoor training grounds (Amble Park, private backyard) and indoor spaces for bad weather and winter.
 
 ---
 
-> *"Movements without knowing their practical applications are meaningless."*
+> *"A movement makes no sense if you don't know what it does against a resisting partner."*

@@ -1,22 +1,22 @@
 ---
 title: "My 2015 Trip to Mount Wudang for a Tai Chi Seminar"
 ---
-Back in the early 2010s, I was practicing Tai Chi with a lot of passion. 
+Back in the early 2010s, I threw myself into practicing Tai Chi. 
 
-I was learning a style called Chen-style Hunyuan Tai Chi. Grandmaster Feng Zhiqiang created this style. Later, Master Wang Fengming carried on the tradition. My teacher in Korea was a student of Master Wang, and he taught us there.
+I was learning a style called Chen-style Hunyuan Tai Chi. Grandmaster Feng Zhiqiang created this style, and Master Wang Fengming carried it forward. My teacher in Korea was one of Master Wang's students, and he taught our group in Seoul.
 
-Why did I like this style? Because it was not too slow and soft like Yang style, and not too harsh like traditional Chen style. It felt just right to me. 
+Why did I like this style? It was not too slow and soft like Yang style, and not too harsh like traditional Chen style. It felt just right to me. 
 
-Back then, I believed that learning forms (the routine movements) was everything in martial arts. Today, since I now focus entirely on Sun-style Xingyiquan, I have almost forgotten those old forms.
+Back then, I thought learning forms (the choreographed routines) was everything in martial arts. Today, since I focus entirely on Sun-style Xingyiquan, I have almost forgotten those old forms.
 
-Anyway, since I loved Tai Chi so much back then, my master and assistant master suggested a trip. Master Wang hosted an annual seminar. That year, it was taking place at Mount Wudang in China. They persuaded me to join them, saying it would be a great chance to train and do some sightseeing at the same time.
+Since I was so into Tai Chi at the time, my master and assistant instructor suggested taking a trip. Master Wang hosted an annual seminar, and that year it took place at Mount Wudang in China. They encouraged me to join, saying it would be a great chance to train and do some sightseeing along the way.
 
-Mount Wudang is a legendary mountain in China. Legend says that a Taoist master named Zhang Sanfeng created Tai Chi right there (though no one knows if that is historically true).
+Mount Wudang is a legendary mountain in China. Legend says a Taoist master named Zhang Sanfeng created Tai Chi right there (though whether that is historically accurate is another story).
 
-When I was a kid, I watched the famous Hong Kong movie *Tai Chi Master*, starring Jet Li. Jet Li played Zhang Sanfeng. That movie left a deep impression on me. From that moment on, I always dreamed of learning Tai Chi one day.
+When I was a kid, I watched the famous Hong Kong movie *Tai Chi Master*, starring Jet Li as Zhang Sanfeng. That movie left a lasting impression on me. From that moment on, I always dreamed of learning Tai Chi one day.
 
 ![[Tea Talk/attachments/스크린샷 2026-09-19 221828.png]]
-[Jet Li's Tai Chi Master Movie]
+*(Jet Li's Tai Chi Master Movie)*
 
 After a long and tiring journey, we finally arrived at a small town near Mount Wudang.
 
@@ -24,11 +24,11 @@ First, we attended Master Wang's seminar.
 ![[Tea Talk/attachments/KakaoTalk_20260919_214932534_03.jpg]]
 
 ![[Tea Talk/attachments/KakaoTalk_20260919_214932534_04.jpg]]
-[Photo of Master Wang Fengming]
+*(Master Wang Fengming)*
 
-Master Wang demonstrated the forms and explained some combat applications. However, because it was a large group seminar where everyone just copied his moves from afar, there was practically no personal correction or feedback. Still, copying a famous master in person and training alongside people from different countries was quite a unique experience.
+Master Wang demonstrated the forms and explained some combat applications. However, because it was a large group seminar where everyone just copied his movements from a distance, there was practically no personal correction or feedback. Still, watching a famous master in person and training alongside people from different countries was a unique experience.
 
-At the end of our one-week trip, we toured Mount Wudang itself. I believe it is a UNESCO World Heritage site. The mountain is incredibly steep and high. While the Canadian Rocky Mountains feel wide and grand, Mount Wudang feels sharp, rising straight into the sky.
+At the end of our one-week trip, we toured Mount Wudang itself. It is a UNESCO World Heritage site, and the mountain is incredibly steep and high. While the Canadian Rocky Mountains feel wide and grand, Mount Wudang feels sharp, rising straight into the sky.
 
 I still remember taking a cable car that climbed up endlessly.
 ![[Tea Talk/attachments/KakaoTalk_20260919_214932534_06.jpg]]
@@ -36,20 +36,20 @@ I still remember taking a cable car that climbed up endlessly.
 ![[Tea Talk/attachments/KakaoTalk_20260919_214932534_01.jpg]]
 
 ![[Tea Talk/attachments/KakaoTalk_20260919_214932534.jpg]]
-[Photos of Mount Wudang]
+*(Photos of Mount Wudang)*
 
-There is one funny scene I still laugh about whenever I recall this trip. On Mount Wudang, there are real Taoist priests walking around in traditional robes.
+There is one funny memory I still smile about whenever I look back on this trip. On Mount Wudang, there are real Taoist priests walking around in traditional robes.
 
 ![[Tea Talk/attachments/KakaoTalk_20260919_214932534_02 1.jpg]]
-[Photo of Taoist Priests]
+*(Taoist priests at Mount Wudang)*
 
 I could not snap a photo at that exact moment, but I saw those "ancient" Taoist masters sitting around, casually tapping away on their iPhones.
 
 ![[Tea Talk/attachments/KakaoTalk_20260919_214932534_05.png]]
 
-"Ah, this place really is commercialized," I thought to myself. And it was true. It is a famous tourist destination.
+"Ah, this place really is commercialized," I thought to myself. And it makes sense. It is a world-famous tourist destination.
 
-In terms of actually mastering Tai Chi skills, I did not gain much from the seminar. But in terms of opening my eyes, seeing the world, and experiencing reality firsthand, it was a worthwhile journey.
+As far as martial arts skill went, I did not take away much from the seminar. But seeing the world, training alongside people from across the globe, and experiencing reality firsthand made it well worth the journey.
 
 ---
 ### Related Stories & Training
