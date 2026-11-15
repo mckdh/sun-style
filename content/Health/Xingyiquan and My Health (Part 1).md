@@ -1,5 +1,3 @@
-# Xingyiquan and My Health (Part 1)
-
 _Why learning to let go was the hardest part._
 
 ## Before I Started
